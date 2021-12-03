@@ -4,5 +4,5 @@ An application developed in Java which aims at serving the department of electri
 
 1. Language Used -  Core Java 
 2. Concept Used - Swing
-3. IDE Used - NetBeans
+3. IDE Used - Eclipse
 4. Database Used - MySQL
